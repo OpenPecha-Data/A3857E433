@@ -1,0 +1,19 @@
+segment_sources:
+  I2C4ADE4D:
+    type: origin_type
+    relation: translation
+    language: en
+  I1BF17E71:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  990e58102491441f8bee1d47a6fc938e:
+    I2C4ADE4D: f2ac3df7da064b06852cd32193c836d4
+    I1BF17E71: 90c853798e79487a966e25c7fea2b79d
+  6a6c7aa79fb04debb2e53836fab8798e:
+    I2C4ADE4D: 282147b1fdd24dc08ca1f472358f954e
+    I1BF17E71: 85284e710f6a43af8d8171c7cccf0e99
+  d3d234b1e1354620a8048be70f72fee2:
+    I2C4ADE4D: 5cd19ba1c4fb4bea999cb9bccbcfcc6a
+    I1BF17E71: 71ec14b9c8e64edc84beddd916bab2d9
